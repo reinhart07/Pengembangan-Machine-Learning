@@ -1,0 +1,10 @@
+pandas==2.0.3
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+nltk==3.8.1
+tensorflow==2.13.0
+scikit-learn==1.2.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+google-play-scraper==1.2.4
